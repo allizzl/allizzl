@@ -12,7 +12,7 @@ I'm a Designer and multimedia creative from Spokane, WA. I'm passionate about im
 ## Skills
 * Web Design
 * Motion Design
-* Social Media Management & Content Strategy
+* Illustration
 
 ## Languages
 * HTML
