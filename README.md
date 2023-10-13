@@ -1,6 +1,3 @@
-![Alexis Rose GIF](https://media.giphy.com/media/lMsT2f47tDxFMYdJMC/giphy-downsized-large.gif)
-
-
 
 # Allison Haynie
 
