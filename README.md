@@ -2,7 +2,7 @@
 # Allison Haynie
 
 :woman_technologist:
-Hi, I'm Alli! 
+Hi, I'm Alli! \
 :evergreen_tree:
 I'm a multimedia Designer based in the PNW. 
 :sparkles:
